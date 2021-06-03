@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=felixonmars)](https://github.com/Flat-Duck/Flat-Duck/)
+
+
 - 👋 Hi, I’m Abdulrahman Mahidwei
 - 👀 I’m interested in programming (PHP - Java Android)
 - 🌱 I’m currently learning Flutter
